@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{65B45A0F-D6D8-432F-B36D-D7D41675DC76}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyWeather.Android PreferredExecutionTarget="Android.Nexus 7 (Marshmallow)" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="packages/Xamarin.Forms.2.3.3.193/build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets" Line="62" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyWeather" expanded="True">
+            <Node name="MyWeather" expanded="True" />
+            <Node name="MyWeather.Android" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>MyWeather.iOS/MyWeather.iOS.csproj</String>
+  </DisabledProjects>
+</Properties>
